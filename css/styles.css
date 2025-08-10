@@ -75,6 +75,9 @@
   .hero-title {
     font-size: 2rem;
   }
+  .hero-subtitle-large {
+  font-size: 1.8rem; /* slightly bigger */
+  }
   .hero-subtitle {
     font-size: 1.1rem;
   }
@@ -87,6 +90,9 @@
   }
   .hero-title {
     font-size: 1.8rem;
+  }
+  .hero-subtitle-large {
+  font-size: 1.4rem; /* slightly bigger */
   }
   .hero-subtitle {
     font-size: 1rem;
@@ -560,5 +566,6 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
 
 
