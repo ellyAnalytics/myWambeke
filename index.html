@@ -29,16 +29,17 @@
   <!-- Navbar -->
   <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm">
-  <div class="container">
+  <div class="container-fluid">
     <!-- Logo and Brand -->
-    <a class="navbar-brand fw-bold d-flex align-items-center" href="#home">
-      <img src="./images/logo.jpg" alt="Wambeke Tech Logo" class="logo me-2">
-      <span>Wambeke <span class="text-primary">Tech</span> Medical Supplies</span>
-
+    <a class="navbar-brand fw-bold d-flex align-items-center flex-shrink-1" href="#home" style="min-width: 0;">
+      <img src="../images/logo.png" alt="Wambeke Tech Logo" class="logo me-2" style="max-height:40px;">
+      <span class="text-truncate" style="max-width: 200px;">
+        Wambeke <span class="text-primary">Tech</span> Medical Supplies
+      </span>
     </a>
 
     <!-- Mobile Toggle -->
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+    <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -55,6 +56,7 @@
     </div>
   </div>
 </nav>
+
   <!-- Hero Section -->
  <!-- Hero Section -->
 <header id="home" class="hero-section d-flex align-items-center justify-content-center text-center">
@@ -519,5 +521,6 @@
 </body>
 
 </html>
+
 
 
