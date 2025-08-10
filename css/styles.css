@@ -58,6 +58,27 @@
   color: #003366;
 }
 
+.hero-title {
+  font-family: 'Merriweather', serif; /* classic, trustworthy */
+  font-size: 3rem; /* adjust size */
+  margin-bottom: 1rem; /* space before larger subtitle */
+  padding-bottom: 0.5cm;
+}
+
+.hero-subtitle-large {
+  font-family: 'Open Sans', sans-serif; /* clean, modern */
+  font-size: 1.5rem; /* slightly larger subtitle */
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle-small {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem; /* smaller supporting text */
+  color: #f1f1f1;
+}
+
+
 /* RESPONSIVENESS */
 @media (max-width: 992px) {
   .hero-title {
@@ -566,6 +587,7 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
 
 
 
