@@ -97,7 +97,6 @@
   }
    .hero-section .btn {
     display: block;
-    width: 100%;
     margin-bottom: 10px; /* space between buttons */
 }
 }
@@ -561,4 +560,5 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
 
