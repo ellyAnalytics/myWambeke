@@ -58,7 +58,44 @@
   color: #003366;
 }
 
+/* RESPONSIVENESS */
+@media (max-width: 992px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  .hero-subtitle {
+    font-size: 1.3rem;
+  }
+}
 
+@media (max-width: 768px) {
+  .hero-section {
+    height: 100vh; /* Slightly smaller on tablets */
+  }
+  .hero-title {
+    font-size: 2rem;
+  }
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-section {
+    height: 100vh; /* Smaller on phones */
+    padding: 20px;
+  }
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  .hero-section .btn {
+    font-size: 1rem;
+    padding: 10px 22px;
+  }
+}
 /* Navbar */
 
 .navbar {
@@ -277,6 +314,7 @@
   padding: 15px;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
 }
 
 .product-card:hover {
