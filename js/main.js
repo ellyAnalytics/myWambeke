@@ -438,7 +438,7 @@ function showProductModal(product) {
         .join("")}
     </div>
     <p>${product.description}</p>
-    <a href="https://wa.me/254748428348?text=Hi,%20I'm%20interested%20in%20${encodeURIComponent(
+    <a href="https://wa.me/254757324165?text=Hi,%20I'm%20interested%20in%20${encodeURIComponent(
       product.name
     )}" target="_blank" class="btn btn-success mt-3">Order Now on WhatsApp</a>
   `;
@@ -485,7 +485,7 @@ renderProducts();
 
     const fullMessage = `Hello Wambeke Tech, my name is: ${name}. I'm interested in: ${service}. ${message ? 'Message: ' + message : ''}`;
 
-    const phoneNumber = "254795577262"; // Replace with your real WhatsApp number
+    const phoneNumber = "254757324165"; // Replace with your real WhatsApp number
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(fullMessage)}`;
 
     window.open(whatsappURL, "_blank");
@@ -564,4 +564,5 @@ document.addEventListener("DOMContentLoaded", function () {
     nameEl.textContent = names[index];
     type();
   });
+
 });
