@@ -345,7 +345,7 @@
   padding: 15px;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  
+  height: 100%;
 }
 
 .product-card:hover {
@@ -587,6 +587,7 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
 
 
 
