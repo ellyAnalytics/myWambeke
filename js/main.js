@@ -237,32 +237,32 @@ const products = [
     items: [
       {
         name: "Digital Blood Pressure Monitor",
-        images: ["../images/bp-monitor.jpg"],
+        images: ["./images/bp-monitor.jpg"],
         description: "Stay on top of your health with our accurate, easy-to-use digital blood pressure monitor. Perfect for home or clinical use, it delivers quick results with a simple touch, helping you track your heart health with confidence.",
       },
       {
         name: "Stethoscope",
-        images: ["../images/stethoscope.jpg"],
+        images: ["./images/stethoscope.jpg"],
         description: "Experience clear, crisp sound for accurate diagnoses with our high-quality stethoscope. Designed for comfort and precision, it’s a trusted tool for every healthcare professional.",
       },
       {
         name: "Pulse Oximeter",
-        images: ["../images/pulse-oximeter.jpg"],
+        images: ["./images/pulse-oximeter.jpg"],
         description: "Monitor your oxygen levels and pulse rate instantly with our reliable pulse oximeter. Compact, lightweight, and easy to use,  a must-have for both medical facilities and home care.",
       },
       {
         name: "Thermometer",
-        images: ["../images/thermometer.jpg"],
+        images: ["./images/thermometer.jpg"],
         description: "Get fast, precise temperature readings with our advanced thermometer. Designed for convenience and accuracy, it’s ideal for hospitals, clinics, and home use.",
       },
       {
         name: "Electrocardiogram (ECG/EKG) Machine",
-        images: ["../images/electrocardiogram.jpg"],
+        images: ["./images/electrocardiogram.jpg"],
         description: "Deliver accurate cardiac readings with our state-of-the-art ECG machine. Built for efficiency, it provides clear, reliable data to support quick and confident medical decisions.",
       },
       {
         name: "Glucometer",
-        images: ["../images/glucometer.jpg"],
+        images: ["./images/glucometer.jpg"],
         description: "Manage blood sugar levels with ease using our compact and precise glucometer. Designed for speed, accuracy, and portability, perfect for everyday monitoring.",
       },
     ],
@@ -273,35 +273,35 @@ const products = [
     items: [
       {
         name: "Surgical Scissors",
-        images: ["../images/scissors.jpg"],
+        images: ["./images/scissors.jpg"],
         description:
           "Experience unmatched precision with our premium surgical scissors, engineered for smooth, effortless cuts that save time in the operating room. Crafted from high-grade stainless steel, they deliver lasting sharpness, exceptional control, and easy sterilization, making them the surgeon’s trusted choice.",
       },
       {
         name: "Forceps",
-        images: ["../images/forceps.jpg"],
+        images: ["./images/forceps.jpg"],
         description: "Take control with our expertly designed surgical forceps, built for a confident, non-slip grip and gentle tissue handling. Whether for delicate procedures or firm holds, their ergonomic design ensures comfort, accuracy, and reliability in every movement.",
       },
        {
         name: "Trocars",
-        images: ["../images/trocar.jpg"],
+        images: ["./images/trocar.jpg"],
         description: "Make every laparoscopic entry smooth and precise with our state-of-the-art trocars. Designed for minimal patient trauma and maximum efficiency, they feature razor-sharp tips, durable construction, and seamless performance you can depend on.",
       },
       {
         name: "Scalpel",
-        images: ["../images/scalpel.jpg"],
+        images: ["./images/scalpel.jpg"],
         description:
           "Achieve flawless incisions with our precision-balanced surgical scalpel. Engineered for a surgeon’s hand, it combines razor-sharp edges, exceptional durability, and unmatched control, giving you confidence in every cut.",
       },
       
       {
         name: "Retractor",
-        images: ["../images/retractor.jpg"],
+        images: ["./images/retractor.jpg"],
         description: "Keep your surgical field clear with our strong yet gentle retractors. Designed for comfort and efficiency, they provide maximum visibility while minimizing patient tissue stress — helping you work faster, safer, and with greater accuracy.",
       },
       {
         name: "Hemostat",
-        images: ["../images/hemostat.jpg"],
+        images: ["./images/hemostat.jpg"],
         description: "Control bleeding like a pro with our dependable hemostats, engineered for a secure lock, easy handling, and lasting performance. Their precise grip ensures quick vessel clamping, giving you one less thing to worry about during critical procedures.",
       }, 
     ],
@@ -312,32 +312,32 @@ const products = [
     items: [
       {
         name: "Anaesthetia Machine",
-        images: ["../images/anaesthetic-machine.jpg"],
+        images: ["./images/anaesthetic-machine.jpg"],
         description: "Engineered for safety and control, our anaesthetic machine ensures smooth, accurate delivery of anaesthesia in surgical environments — combining precision technology with ease of use for every procedure.",
       },
       {
         name: "Suction Machine",
-        images: ["../images/suction-machine.jpg"],
+        images: ["./images/suction-machine.jpg"],
         description: "High-performance and portable, our suction machine delivers powerful, consistent suction for emergency and clinical use — ensuring clear airways and a safe environment for patients.",
       },
       {
         name: "Theatre Bed",
-        images: ["../images/theatre-bed.jpg"],
+        images: ["./images/theatre-bed.jpg"],
         description: "Designed for versatility and comfort, this theatre bed offers full adjustability, sturdy support, and easy positioning for optimal surgical access during any procedure.",
       },
       {
         name: "Theatre Lights",
-        images: ["../images/theatre-lights.jpg"],
+        images: ["./images/theatre-lights.jpg"],
         description: "Illuminate every detail with bright, shadow-free LED theatre lights. Energy-efficient, long-lasting, and adjustable, they ensure optimal visibility for surgical precision.",
       },
        {
         name: "Diathermy Machine",
-        images: ["../images/diathermy-machine.jpg"],
+        images: ["./images/diathermy-machine.jpg"],
         description: "Achieve precision in every procedure with our high-frequency Diathermy machine. Safe, efficient, and easy to operate — perfect for surgical and therapeutic applications requiring the utmost accuracy.",
       },
       {
         name: "Dental Unit",
-        images: ["../images/dental-unit.jpg"],
+        images: ["./images/dental-unit.jpg"],
         description: "Upgrade your dental practice with this fully integrated unit featuring ergonomic controls, high-precision tools, and a patient-friendly design built to enhance comfort and efficiency during every procedure.",
       },
     ],
@@ -348,44 +348,44 @@ const products = [
     items: [
       {
         name: "Hospital Bed",
-        images: ["../images/hospital-bed.jpg"],
+        images: ["./images/hospital-bed.jpg"],
         description: "Built for exceptional patient comfort and caregiver convenience, our hospital beds feature adjustable height, smooth-rolling wheels, and sturdy construction, making them the perfect blend of safety, durability, and ease of use.",
       },
       
       {
         name: "CT Scan",
-        images: ["../images/CT-Scan.jpg"],
+        images: ["./images/CT-Scan.jpg"],
         description: "Experience unmatched imaging clarity with our CT Scan machine. Designed for speed and accuracy, it provides detailed cross-sectional views that help medical teams make confident, life-saving decisions.",
       },
       {
         name: "Ultrasound Machine",
-        images: ["../images/ultrasound-machine.jpg"],
+        images: ["./images/ultrasound-machine.jpg"],
         description: "Deliver precise, real-time imaging with our advanced ultrasound system. Compact, reliable, and easy to operate, it’s perfect for everything from routine check-ups to detailed diagnostic examinations.",
       },
        {
         name: "X-Ray Machine",
-        images: ["../images/x-ray.jpg"],
+        images: ["./images/x-ray.jpg"],
         description: "Delivering crystal-clear diagnostic images every time, this X-ray machine ensures accurate results with minimal exposure. Designed for speed, reliability, and patient safety, it’s a must-have for any modern healthcare facility.",
       },
      
       {
         name: "Defibrillator",
-        images: ["../images/defibrillator.jpg"],
+        images: ["./images/defibrillator.jpg"],
         description: "Fast, reliable, and easy to use, our defibrillator delivers life-saving shocks with precision. Designed for both professional and emergency responders, it’s a vital tool for every medical facility.",
       },
       {
         name: "Emergency Trolley",
-        images: ["../images/emergency-trolley.jpg"],
+        images: ["./images/emergency-trolley.jpg"],
         description: "Organize and access critical supplies instantly with our mobile emergency trolleys, built for speed, durability, and reliability in life-saving situations.",
       },
       {
         name: "Patient Trolley",
-        images: ["../images/pt-trolley.jpg"],
+        images: ["./images/pt-trolley.jpg"],
         description: "Transport patients comfortably and safely with our ergonomic patient trolleys. Smooth-rolling wheels, sturdy construction, and easy height adjustment make transfers effortless.",
       },
       {
         name: "Mortuary Equipments (Autopsy Table)",
-        images: ["../images/mortuary-equipment.jpg"],
+        images: ["./images/mortuary-equipment.jpg"],
         description: "Engineered for professional use, this autopsy table offers a corrosion-resistant stainless steel surface, efficient drainage, and ergonomic design,ensuring hygienic, efficient, and safe examinations every time.",
       },
     ],
@@ -396,56 +396,56 @@ const products = [
     items: [
       {
         name: "Kidney Dish",
-        images: ["../images/kidney-dish.jpg"],
+        images: ["./images/kidney-dish.jpg"],
         description:
           "Curved design for collecting bodily fluids or instruments.",
       },
        {
         name: "Syringes & Needles",
-        images: ["../images/syringes.jpg"],
+        images: ["./images/syringes.jpg"],
         description: "Sterile syringes for precise dosage and injection.",
       },
       {
         name: "Cannular",
-        images: ["../images/cannular.jpg"],
+        images: ["./images/cannular.jpg"],
         description:
           "Our Cannulas are designed for optimal fluid transfer, drainage, or suction during medical procedures.",
       },
       
       {
         name: "Surgical Masks",
-        images: ["../images/masks.jpg"],
+        images: ["./images/masks.jpg"],
         description:
           "Disposable, sterile surgical masks for infection control.",
       },
       {
         name: "Medical Gloves",
-        images: ["../images/gloves.jpg"],
+        images: ["./images/gloves.jpg"],
         description:
           "Latex and nitrile gloves for hygienic medical procedures.",
       },
      
       {
         name: "Sutures & Blades",
-        images: ["../images/sutures.jpg"],
+        images: ["./images/sutures.jpg"],
         description:
           "High-quality sutures and surgical blades for wound closure.",
       },
       {
         name: "Clamps",
-        images: ["../images/clamps.jpg"],
+        images: ["./images/clamps.jpg"],
         description:
           "Instruments for holding tissues and securing blood vessels.",
       },
       {
         name: "Dressing Sets",
-        images: ["../images/dressing-set.jpg"],
+        images: ["./images/dressing-set.jpg"],
         description:
           "Pre-packaged sterile kits for wound cleaning and dressing.",
       },
       {
         name: "Blood Lancet",
-        images: ["../images/lancet.jpg"],
+        images: ["./images/lancet.jpg"],
         description:
           "Get accurate blood samples in seconds with our safe, comfortable, and hygienic lancet pen — perfect for clinics or home use",
       },
@@ -694,4 +694,5 @@ document.addEventListener("DOMContentLoaded", function () {
     nameEl.textContent = names[index];
     type();
   });
+
 });
